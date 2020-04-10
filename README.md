@@ -8,7 +8,7 @@ $  git clone https://github.com/rahulkamuni/docker_jenkins_hello_world.git .
 
 ##### Build Docker image
 ```
-$ docker build -f Dockerfile -t docker_jenkins_hello_world .
+$ docker build -f Dockerfile -t rahulkamuni/docker-jenkins-hello-world .
 ```
 This will first run maven build to create jar package and then build docker jenkins hello world image using built jar package.
 
