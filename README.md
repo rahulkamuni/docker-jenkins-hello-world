@@ -58,3 +58,7 @@ Welcome to Project Rahul Kamuni
 ```
 docker-compose down
 ```
+## Push your image to the repository you created
+
+docker push rahulkamuni1989/image_name
+
